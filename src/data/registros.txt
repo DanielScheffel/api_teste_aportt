@@ -1,0 +1,57 @@
+
+        Data/Hora: 29/01/2026 21:16:19
+        Latitude: -23.5505
+        Longitude: -46.6333
+        IP: ::1
+        Imagem: src\uploads\52e7d095293e3b3f05af5dae47f8df9a
+        ------------------------------
+    
+        Data/Hora: 30/01/2026 16:24:57
+        Latitude: -29.8778
+        Longitude: -50.7647
+        IP: ::1
+        Imagem: src\uploads\21e6ee792280a5ce76a9e2cd81ec4778
+        ------------------------------
+    
+        Data/Hora: 30/01/2026 16:27:34
+        Latitude: -29.8778
+        Longitude: -50.7647
+        IP: ::1
+        Imagem: src\uploads\9037e6afb03dc9f86e881cff16921af2
+        ------------------------------
+    
+        Data/Hora: 30/01/2026 16:37:28
+        Latitude: -29.8778
+        Longitude: -50.7647
+        IP: ::1
+        Imagem: src\uploads\e84773ac4ce78d6703afdcfed7186c93
+        ------------------------------
+    
+        Data/Hora: 30/01/2026 16:46:34
+        Latitude: -29.8778
+        Longitude: -50.7647
+        IP: ::1
+        Imagem: src\uploads\6ac19db3862c6a45754ad68e4a6e9f41
+        ------------------------------
+    
+        Data/Hora: 30/01/2026 17:03:07
+        Latitude: -29.8778
+        Longitude: -50.7647
+        IP: ::1
+        Imagem: src\uploads\2cf3f6e97f795092996ded273d0d712c
+        ------------------------------
+    
+        Data/Hora: 30/01/2026 17:27:38
+        Latitude: -29.8778
+        Longitude: -50.7647
+        IP: ::1
+        Imagem: src\uploads\acf98eecb707db05dd5f547c53660e4e
+        ------------------------------
+    
+        Data/Hora: 30/01/2026 17:38:52
+        Latitude: -29.8778
+        Longitude: -50.7647
+        IP: ::1
+        Imagem: src\uploads\6f736c0f283173df5e35a537b8bb34a3
+        ------------------------------
+    
