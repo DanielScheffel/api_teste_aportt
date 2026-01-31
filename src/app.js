@@ -10,7 +10,7 @@ app.use(express.json());
 
 app.use("/", registerRoute);
 
-app.use('/uploads', express.static(path.resolve('src', 'uploads')));
+app.use('/uploads', express.static(path.resolve('src/uploads')));
 
 // Rota teste
 app.get("/", (req, res) => {
