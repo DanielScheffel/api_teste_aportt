@@ -18,8 +18,10 @@ export function registrarPonto(req, res) {
         latitude,
         longitude,
         ip,
-        imagePath: foto.path
+        imagePath: foto.filename
     })
+//     console.log('BODY:', req.body);
+//     console.log('FILE:', req.file);
 
     return res.json({
         message: "Registro bem sucedido!",
@@ -29,4 +31,6 @@ export function registrarPonto(req, res) {
         ip,
         foto: foto.filename
     })
+
+    
 }

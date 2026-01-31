@@ -4,10 +4,10 @@ import { readRegisters } from "../utils/fileReader.js";
 export async function getRegistros(req, res) {
     
     try {
-        const content = await readRegisters();
+        const registros = await readRegisters();
 
         return res.status(200).json({
-            registros: content
+            registros
         });
     } catch (error) {
         // console.error('ERRO AO LER ARQUIVO: ', error)

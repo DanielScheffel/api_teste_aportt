@@ -11,12 +11,16 @@ export function readRegisters() {
 
     return new Promise((resolve, reject) => {
         fs.readFile(filePath, 'utf-8', (err, data) => {
-            if(err) {
-                reject(err);
-            } else {
-                resolve(data);
-            }
-        });
+            if(err) return reject(err);
+
+            const linhas = data
+                .split('\n')
+                .filter(Boolean)
+                .map(linha => JSON.parse(linha));
+
+            resolve(linhas);
+        })
+
     });
 
 }
