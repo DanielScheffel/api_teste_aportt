@@ -38,7 +38,7 @@ src/
 │   └── (imagens enviadas)
 ├── app.js
 └── server.js
-
+```
 ---
 
 ## 📝 Observações
