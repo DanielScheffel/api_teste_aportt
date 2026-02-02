@@ -41,6 +41,13 @@ src/
 ```
 ---
 
+## 🌐 Aplicação Online
+
+🔗 Acesse o projeto em produção:  
+👉 [Clique aqui para acessar](https://api-teste-aportt.onrender.com'})
+
+---
+
 ## 📝 Observações
 
 - A persistência em arquivo foi escolhida para manter a simplicidade do escopo.
