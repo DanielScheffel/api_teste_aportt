@@ -44,7 +44,7 @@ src/
 ## 🌐 Aplicação Online
 
 🔗 Acesse o projeto em produção:  
-👉 [Clique aqui para acessar](https://api-teste-aportt.onrender.com'})
+👉 [Clique aqui para acessar](https://api-teste-aportt.onrender.com)
 
 ---
 
