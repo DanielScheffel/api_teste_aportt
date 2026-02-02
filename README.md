@@ -39,6 +39,8 @@ src/
 ├── app.js
 └── server.js
 
+´´´
+
 ## 📝 Observações
 
 - A persistência em arquivo foi escolhida para manter a simplicidade do escopo.
