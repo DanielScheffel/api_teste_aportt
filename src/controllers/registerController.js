@@ -13,6 +13,8 @@ export function registrarPonto(req, res) {
     const ip = getClientIp(req);
     const dateTime = getDate();
 
+    // console.log('IP capturado: ', ip);
+
     writeRegister({
         dateTime,
         latitude,
